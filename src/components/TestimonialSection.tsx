@@ -4,22 +4,22 @@ import React from "react";
 const TestimonialSection = () => {
   const testimonials = [
     {
-      name: "Alex Morgan",
-      role: "Amateur Musician",
+      name: "John Frusciante",
+      role: "Red Hot Chili Peppers",
       quote: "I was just playing in my garage when suddenly all my furniture started floating. SuperGuitar has completely changed my relationship with physics!",
-      avatar: "https://randomuser.me/api/portraits/men/32.jpg"
+      avatar: "https://1520arts.org/wp-content/uploads/2012/03/john228.jpg"
     },
     {
-      name: "Sophia Chen",
-      role: "Professional Guitarist",
+      name: "Stephen Carpenter",
+      role: "Deftones",
       quote: "I used SuperGuitar at my last concert and the entire audience reported shared hallucinations of cosmic galaxies. My ticket sales have tripled!",
-      avatar: "https://randomuser.me/api/portraits/women/44.jpg"
+      avatar: "https://guitar.com/wp-content/uploads/2023/04/stephen-carpenter-deftones@2000x1500-1068x801.jpg"
     },
     {
-      name: "Marcus Johnson",
-      role: "Music Teacher",
+      name: "Rei",
+      role: "Singer/Songwriter",
       quote: "I was skeptical until I played a D minor and accidentally slowed down time in my classroom. My 30-minute lessons now last for hours of practice time!",
-      avatar: "https://randomuser.me/api/portraits/men/22.jpg"
+      avatar: "https://cdn.mos.cms.futurecdn.net/XDCW2avoTumbSQrdH2wsNG-1200-80.jpg"
     },
   ];
 
