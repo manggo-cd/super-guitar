@@ -57,14 +57,14 @@ const Footer = () => {
               <li>123 Quantum Avenue</li>
               <li>Mystical Valley, CA 94123</li>
               <li>info@superguitar.com</li>
-              <li>+1 (555) 123-4567</li>
+              <li>+1 (778) 420-6969</li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-12 pt-8">
           <p className="text-center text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} SuperGuitar Inc. All rights reserved. The magical abilities described are purely fictional.
+            &copy; {new Date().getFullYear()} SuperGuitar Inc. All rights reserved. The magical abilities described are purely fictional (or are they?).
           </p>
         </div>
       </div>
